@@ -1,0 +1,9 @@
+.services__text {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Lato";
+  line-height: 1.57;
+  margin: 5px 0 0;
+  max-width: 218px;
+  width: 100%;
+}

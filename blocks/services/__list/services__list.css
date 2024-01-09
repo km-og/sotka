@@ -1,0 +1,13 @@
+.services__list {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  gap: 65px;
+}
+
+@media screen and (max-width: 767px) {
+  .services__list {
+    flex-direction: column;
+    gap: 50px;
+  }
+}

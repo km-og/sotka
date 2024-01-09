@@ -1,0 +1,11 @@
+.services {
+  max-width: 1120px;
+  margin: 65px auto 0;
+}
+
+@media screen and (max-width: 767px) {
+  .services {
+    max-width: 330px;
+    margin: 40px auto 0;
+  }
+}
